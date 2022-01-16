@@ -3,7 +3,7 @@ import time
 
 
 root = Tk()
-root.title("sourcesoft")
+root.title("goodluck")
 width = 600
 height = 400
 screen_width = root.winfo_screenwidth()
